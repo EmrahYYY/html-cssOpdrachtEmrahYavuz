@@ -1,0 +1,90 @@
+body{background-color: grey; max-width:800px ; }
+
+.right{ border: solid 2px yellowgreen; }   
+
+
+table, tr, th, td{border:1px solid black width=100% }
+
+
+#tr1{background-color:black;color:white;}
+
+.tr2{background-color:white}
+
+
+#main2{margin-left: 35%;}
+
+pre{font-size:150%;}
+
+h1{color: yellow; font-size: 25px; } 
+
+h2{color: black; font-size: 20px;  } 
+i{font-size: 25px;}
+
+.forpicture{
+
+  max-height: 25%;
+  max-width: 25%;
+
+  text-align: center;
+  size: 12%;
+    height: 100%; 
+    margin-left: 53%;
+
+    width: 12%;
+    position: fixed; 
+
+    background-color: aliceblue;
+
+}
+
+
+img{ 
+
+  border-radius: 50%;
+
+  max-height: 20%;
+  max-width: 20%;
+
+  text-align: center;
+  size: 10%;
+    height: 100%; 
+    margin-left: 54%;
+
+    width: 10%;
+    position: fixed; 
+ }
+
+.sidenav h1{  
+  font: size 20px;
+
+  padding: 10px 10px 10px 40px;
+  text-decoration: none;
+  
+  color: black;
+  display: block; }
+
+.sidenav {
+    height: 100%; 
+
+    width: 18%;
+    position: fixed; 
+    top: 0; 
+    left: 0;
+    background-color: burlywood; 
+    padding-top: 60px; 
+ 
+  }
+  
+
+  .sidenav a {
+    padding: 10px 10px 10px 30px;
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    display: block;
+    
+  }
+  
+
+  
+
